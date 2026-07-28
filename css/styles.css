@@ -2,10 +2,20 @@ p {
     font-size: 80px; color: brown; font-weight: bold;
 }
 
-.link {
+.wiki {
     color: burlywood;
 }
 
-.link:hover {
+.wiki:hover {
     color: indianred;
+}
+
+
+
+.img-links .img {
+    color: darkseagreen;
+}
+
+.img-links .img:hover {
+    color: magenta;
 }
