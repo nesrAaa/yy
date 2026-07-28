@@ -11,7 +11,7 @@ p {
 }
 
 
-
+/* default, hovering, and focus colors for image links */
 .img-links .img {
     color: darkseagreen;
 }
@@ -21,6 +21,13 @@ p {
     color: magenta;
 }
 
-.img-links .img:visited {
-    color: gold;
+
+
+.fun-bagle {
+    border-collapse: collapse;
+}
+
+.fun-bagle td {
+    padding: 8px;
+    border: 1px solid #212121;
 }
