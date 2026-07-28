@@ -16,6 +16,11 @@ p {
     color: darkseagreen;
 }
 
-.img-links .img:hover {
+.img-links .img:hover,
+.img-links .img:focus {
     color: magenta;
+}
+
+.img-links .img:visited {
+    color: gold;
 }
