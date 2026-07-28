@@ -1,3 +1,11 @@
-p {
+p { 
     font-size: 80px; color: brown; font-weight: bold;
+}
+
+.link {
+    color: burlywood;
+}
+
+.link:hover {
+    color: indianred;
 }
