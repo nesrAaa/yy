@@ -17,6 +17,7 @@ p {
 
 /* default, hovering, and focus colors for image links */
 .img-links .img {
+    font-weight: 600;
     color: rgb(159, 204, 159);
     text-shadow: var(--text-shadow);
 }
