@@ -5,12 +5,12 @@
 p { 
     font-size: 80px;
     color: brown;
-    font-weight: bold;
-    font-style: italic;
 }
 
 .wiki {
     color: burlywood;
+        font-weight: bold;
+        font-style: italic;
 }
 
 .wiki:hover {
